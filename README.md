@@ -1,111 +1,49 @@
-# Hi there, I'm Deepu Mahapatro 👋
+# DEEPU MAHAPATRO 👋
 
-🚀 Passionate Full-Stack Python Developer in progress
-💻 Focused on Python, DSA, AI Automation, and Web Development
-🎯 Building real-world AI-powered applications and scalable solutions
+### Python Full-Stack Developer | Django Developer | AI & Automation Enthusiast
+
+Passionate about building scalable web applications and AI-powered automation solutions using Python and Django. Currently focused on Backend Development, REST APIs, Data Structures & Algorithms, and AI Workflows.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech in Electronics and Computer Engineering at Vignan's Institute of Information Technology
-* 🌱 Currently mastering **Python, Data Structures & Algorithms, Django, and AI workflows**
-* 🔭 Working on **AI-powered automation projects, web applications, and productivity tools**
-* 🧠 Actively improving **problem-solving skills through daily DSA practice**
-* 🌿 Building a **Flora Cycle Project** focused on smart connectivity and innovative real-world solutions
-* 🤝 Open to collaborating on **Python, AI, Web Development, and Open-Source Projects**
-* ⚡ Strong interest in building practical solutions using AI and automation
+- 🎓 B.Tech in Electronics & Computer Engineering
+- 💼 Python Full-Stack Development Intern
+- 🌱 Learning Django, Django REST Framework, AI Agents & Machine Learning
+- 🚀 Building real-world Python and Django applications
+- 🤝 Open to Open Source and collaborative projects
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
+**Languages:** Python • JavaScript • HTML • CSS • Java
 
-* Python
-* JavaScript
-* C
-* HTML5
-* CSS3
+**Backend:** Django • Django REST Framework
 
-### ⚙️ Frameworks & Libraries
+**Databases:** PostgreSQL • MySQL • MongoDB
 
-* Django
-* NumPy
+**AI:** Machine Learning • Prompt Engineering • Gemini API
 
-### 🤖 AI & Automation
-
-* Prompt Engineering
-* AI Agent Workflows
-* Gemini API
-* Google AI Studio
-* OCR Automation
-
-### 🗄️ Databases
-
-* MySQL
-* PostgreSQL
-
-### 🛠️ Tools & Platforms
-
-* Git
-* GitHub
-* Docker
-* VS Code
-* Jupyter Notebook
+**Tools:** Git • GitHub • Docker • Postman • VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-### 🤖 AI Gmail Assistant
-
-An AI-powered assistant that reads, classifies, summarizes emails, and generates smart replies using LLMs and Gmail API.
-
-### 🔎 AI Research Agent
-
-Automated research system that collects web information and converts it into structured summaries using AI.
-
-### 🏥 Hospitex
-
-A responsive healthcare web frontend project focused on modern UI/UX design, appointment workflows, and user-friendly healthcare management interfaces.
-
-### 📄 AI Invoice Automation
-
-Built an intelligent invoice-processing workflow using OCR, Gmail automation, and Google Sheets integration.
-
-### 🎓 Scholarship Eligibility Checking Agent
-
-AI-based system for automated scholarship screening, verification, and application tracking.
-
-### 🌿 Flora Cycle Project
-
-Developing an innovative project focused on smart connectivity, automation, and real-world problem-solving concepts.
+- 🌿 **FloraCycle** — Full-stack SaaS platform for flower waste management.
+- 🤖 **AI LinkedIn Post Automation** — Automated AI content generation workflow.
+- 📊 **AI Analytics Analyzer** — AI-powered KPI reporting and business insights.
+- 🏥 **Edge AI Smart Hospital Bed Monitoring System** — TinyML-based IoT healthcare solution.
 
 ---
 
-## 📈 Current Focus
+## 📫 Connect With Me
 
-* Data Structures & Algorithms (DSA)
-* Backend Development with Django
-* AI Agent Development
-* Full-Stack Python Projects
-* Computer Networks Fundamentals
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: linkedin.com/in/deepumahapatro
-* 💻 GitHub: github.com/Deepu-mahapatro
-* 📫 Email: [deepumahapatro2006@gmail.com](mailto:deepumahapatro2006@gmail.com)
-
----
-
-## ✨ Fun Fact
-
-I enjoy turning ideas into real-world AI solutions and continuously learning something new every single day 🚀
-
+- 💼 **LinkedIn:** https://linkedin.com/in/deepumahapatro
+- 💻 **GitHub:** https://github.com/Deepu-mahapatro
+- 📧 **Email:** deepumahapatro2006@gmail.com
 
 
  
