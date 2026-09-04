@@ -2,7 +2,7 @@
 
 ### 🚀 Python Full-Stack Developer | Django Developer | AI & Automation Enthusiast
 
-Passionate about building scalable web applications, backend systems, and AI-powered automation solutions using **Python, Django, REST APIs, and modern development technologies**. I enjoy turning ideas into practical applications, solving problems through code, and continuously improving my development skills through real-world projects.
+Passionate about building scalable web applications, backend systems, and automation solutions using **Python, Django, REST APIs, and modern development technologies**. I enjoy turning ideas into practical applications, solving problems through code, and continuously strengthening my foundations in software engineering.
 
 ---
 
@@ -20,37 +20,38 @@ Passionate about building scalable web applications, backend systems, and AI-pow
 
 * Advanced Django & Django REST Framework
 * Data Structures & Algorithms
+* System Design Fundamentals
+* Database Management Systems
+* Object-Oriented Programming
+* Computer Networks
 * AI & Automation
 * Machine Learning
-* Backend Architecture & API Design
-* Building Production-Ready Applications
 
 👯 **Looking to Collaborate On**
 
-* Python & Django Projects
+* Python & Django Applications
+* Backend & API Development
 * AI & Automation Projects
-* Backend Applications
 * Open Source Projects
 * Real-World Software Solutions
 
 💬 **Ask Me About**
 
-* Python
-* Django
-* Django REST Framework
-* Backend Development
-* REST APIs
-* AI & Automation
+* Python & Django Development
+* REST API Development
+* Backend Architecture
+* Database-Driven Applications
+* Automation Workflows
 * Git & GitHub
-* Data Structures & Algorithms
+* My Development Projects
 
 📫 **Reach Me**
 
 * 📧 [**deepumahapatro2006@gmail.com**](mailto:deepumahapatro2006@gmail.com)
 
-⚡ **Fun Fact**
+⚡ **Professional Focus**
 
-> I believe in learning by building — every project is an opportunity to turn knowledge into practical experience.
+> Building strong software engineering fundamentals while developing practical applications with Python, Django, backend technologies, and automation.
 
 ---
 
@@ -67,7 +68,7 @@ Passionate about building scalable web applications, backend systems, and AI-pow
 </a>
 
 <a href="https://leetcode.com/u/Deepu_mahapatro/">
-<img src="https://skillicons.dev/icons?i=leetcode" width="45" height="45" alt="LeetCode"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="45" alt="LeetCode"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/deepumahap2udh">
@@ -98,12 +99,6 @@ Passionate about building scalable web applications, backend systems, and AI-pow
 <img src="https://skillicons.dev/icons?i=django" />
 </p>
 
-**Backend Technologies**
-
-* Django
-* Django REST Framework
-* REST APIs
-
 ---
 
 ## 📊 Data Science & AI
@@ -111,16 +106,6 @@ Passionate about building scalable web applications, backend systems, and AI-pow
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
 </p>
-
-**Libraries & Technologies**
-
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* TensorFlow
-* AI Automation
 
 ---
 
@@ -130,9 +115,6 @@ Passionate about building scalable web applications, backend systems, and AI-pow
 <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 </p>
 
-* PostgreSQL
-* MySQL
-
 ---
 
 ## 🛠️ Tools & Platforms
@@ -141,11 +123,21 @@ Passionate about building scalable web applications, backend systems, and AI-pow
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
 </p>
 
-* Git
-* GitHub
-* Docker
-* Postman
-* VS Code
+---
+
+# 🧠 Core Computer Science
+
+<p align="center">
+
+| Area                                | Focus                       |
+| :---------------------------------- | :-------------------------- |
+| 📚 **Data Structures & Algorithms** | DSA Learner                 |
+| 🗄️ **DBMS**                        | Database Fundamentals       |
+| 🧩 **OOP**                          | Object-Oriented Programming |
+| 🌐 **Computer Networks**            | Networking Fundamentals     |
+| 🏗️ **System Design**               | System Design Fundamentals  |
+
+</p>
 
 ---
 
