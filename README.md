@@ -8,12 +8,23 @@
 
 <br>
 
+<!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/Deepu-mahapatro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/deepumahapatro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Deepu_mahapatro/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/profile/deepumahap2udh"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="mailto:deepumahapatro2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Deepu-mahapatro">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/deepumahapatro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Deepu_mahapatro/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/deepumahap2udh">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="mailto:deepumahapatro2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -51,7 +62,12 @@ class DeepuMahapatro:
         ]
 
     def daily_routine(self):
-        return ["Learn 📚", "Build 🛠️", "Solve Problems 🧠", "Improve 🚀"]
+        return [
+            "Learn 📚",
+            "Build 🛠️",
+            "Solve Problems 🧠",
+            "Improve Every Day 🚀"
+        ]
 
 
 me = DeepuMahapatro()
@@ -62,6 +78,7 @@ me = DeepuMahapatro()
 - ⚙️ **Focus:** Django, REST APIs, databases, and backend engineering.
 - 🧠 **Practicing:** Data Structures and Algorithms using Python.
 - 🤖 **Exploring:** AI, data analytics, and automation.
+- 🎯 **Goal:** Become a strong Python backend engineer and build scalable applications.
 
 <br clear="right"/>
 
@@ -135,17 +152,6 @@ me = DeepuMahapatro()
   <img src="https://img.shields.io/badge/AI%20%26%20Automation-7B42F6?style=for-the-badge"/>
 </p>
 
-#### 💻 Programming & CS Fundamentals
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-316192?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-7B42F6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Operating%20Systems-4051B5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-008080?style=for-the-badge"/>
-</p>
-
 </td>
 </tr>
 </table>
@@ -154,20 +160,14 @@ me = DeepuMahapatro()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<!-- GitHub Statistics -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<!-- Programming & CS Fundamentals -->
+<h2 align="center">🧠 Programming & CS Fundamentals</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&include_all_commits=true"/>
-
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Deepu-mahapatro&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7"/>
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF"/>
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepu-mahapatro&custom_title=GitHub%20Activity&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7"/>
-
-</div>
-
+<p>
+  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-316192?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-7B42F6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-4051B5?style=for-the-badge"/>
+  <img src="https://img
