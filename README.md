@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Deepu%20Mahapatro&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=800&height=100&lines=Python+Full-Stack+Developer+%F0%9F%90%8D;Django+%26+FastAPI+Developer+%E2%9A%99%EF%B8%8F;Building+REST+APIs+%F0%9F%9A%80;Exploring+System+Design+%F0%9F%8C%90;AI+%26+Automation+Enthusiast+%F0%9F%A4%96" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00F7F7&center=true&vCenter=true&random=false&width=800&height=100&lines=Python+Full-Stack+Developer+%F0%9F%90%8D;AI+%26+Automation+Enthusiast+%F0%9F%A4%96" alt="Typing SVG"/>
 
 <br>
 
@@ -43,48 +43,25 @@ class DeepuMahapatro:
         self.location = "India 🇮🇳"
         self.education = "B.Tech - Electronics & Computer Engineering"
         self.role = "Python Full-Stack Developer"
-
-        self.backend = ["Django", "FastAPI", "REST APIs"]
-        self.databases = ["MySQL", "PostgreSQL", "Redis"]
-
-        self.learning = [
-            "System Design",
-            "Celery & Background Tasks",
-            "Scalable Backend Systems",
-            "AI & Automation"
-        ]
-
         self.interests = [
-            "Problem Solving",
             "Backend Development",
-            "DSA",
+            "Problem Solving",
+            "AI & Automation",
             "Building Real-World Projects"
         ]
 
-    def daily_routine(self):
-        return [
-            "Learn 📚",
-            "Build 🛠️",
-            "Solve Problems 🧠",
-            "Improve Every Day 🚀"
-        ]
+    def mindset(self):
+        return "Learn, Build, Improve, Repeat 🚀"
 
 
 me = DeepuMahapatro()
 ```
 
-- 🔭 **Building:** Backend applications and practical software projects.
-- 🌱 **Learning:** FastAPI, Celery, Redis, and System Design.
-- ⚙️ **Focus:** Django, REST APIs, databases, and backend engineering.
-- 🧠 **Practicing:** Data Structures and Algorithms using Python.
-- 🤖 **Exploring:** AI, data analytics, and automation.
-- 🎯 **Goal:** Become a strong Python backend engineer and build scalable applications.
-
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-<!-- Tech Stack -->
+<!-- Tech Arsenal -->
 <h2 align="center">⚡ Tech Arsenal</h2>
 
 <div align="center">
@@ -105,7 +82,6 @@ me = DeepuMahapatro()
 #### ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
@@ -122,6 +98,7 @@ me = DeepuMahapatro()
 </p>
 
 </td>
+
 <td valign="top" width="50%">
 
 #### 🗄️ Databases & Caching
@@ -142,7 +119,7 @@ me = DeepuMahapatro()
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-#### 📊 Data & AI
+#### 📊 Data Science & AI
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -166,8 +143,35 @@ me = DeepuMahapatro()
 <div align="center">
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DBMS-316192?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OOP-7B42F6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Operating%20Systems-4051B5?style=for-the-badge"/>
-  <img src="https://img
+  <img src="https://img.shields.io/badge/Computer%20Networks-008080?style=for-the-badge"/>
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- GitHub Statistics -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&include_all_commits=true"/>
+
+<!-- GitHub Streak -->
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Deepu-mahapatro&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7"/>
+
+<br><br>
+
+<!-- Most Used Languages: up to 6, excluding TypeScript and Dockerfile -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&langs_count=6&hide=typescript,dockerfile&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF"/>
+
+<!-- GitHub Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepu-mahapatro&custom_title=GitHub%20Activity&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7"/>
+
+</div>
