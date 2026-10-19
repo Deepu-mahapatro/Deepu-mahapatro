@@ -160,7 +160,10 @@ me = DeepuMahapatro()
 <div align="center">
 
 <!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&include_all_commits=true"/>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+/>
 
 <!-- GitHub Streak -->
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Deepu-mahapatro&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7"/>
