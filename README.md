@@ -107,4 +107,67 @@ me = DeepuMahapatro()
 </td>
 <td valign="top" width="50%">
 
-#### 🗄️ Databases
+#### 🗄️ Databases & Caching
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+#### 🧰 Tools & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+#### 📊 Data & AI
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-7B42F6?style=for-the-badge"/>
+</p>
+
+#### 💻 Programming & CS Fundamentals
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-316192?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-7B42F6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-4051B5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-008080?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- GitHub Statistics -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&include_all_commits=true"/>
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Deepu-mahapatro&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7"/>
+
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepu-mahapatro&custom_title=GitHub%20Activity&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7"/>
+
+</div>
+
