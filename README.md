@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <!-- Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Deepu%20Mahapatro&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35"/>
@@ -98,7 +98,6 @@ me = DeepuMahapatro()
 </p>
 
 </td>
-
 <td valign="top" width="50%">
 
 #### 🗄️ Databases & Caching
@@ -174,4 +173,17 @@ me = DeepuMahapatro()
 <!-- GitHub Activity Graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepu-mahapatro&custom_title=GitHub%20Activity&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7"/>
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+<!-- GitHub Contribution Snake -->
+<h2 align="center">🐍 My GitHub Contributions</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deepu-mahapatro/Deepu-mahapatro/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deepu-mahapatro/Deepu-mahapatro/output/github-snake.svg"/>
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Deepu-mahapatro/Deepu-mahapatro/output/github-snake.svg"/>
+  </picture>
 </div>
