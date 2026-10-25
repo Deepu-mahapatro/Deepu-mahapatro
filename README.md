@@ -1,5 +1,4 @@
-```markdown
-<h1 align="center">
+ <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+GITHUB!_;PYTHON+FULL+STACK+DEVELOPER;DJANGO+%7C+FASTAPI+%7C+AI;PROBLEM+SOLVER+%7C+BUILDER">
 </h1>
 
@@ -11,12 +10,12 @@
 
 ## About Me
 
-- 3rd-Year B.Tech student in Electronics & Computer Engineering at VIIT, Duvvada
-- Python Full-Stack Developer with a focus on backend development
+- 3rd-Year B.Tech student in Electronics & Computer Engineering at Vignan Institute of Information Technology, Duvvada
+- Python Full-Stack Developer focused on backend development
 - Building projects using Django, FastAPI, and REST APIs
 - Exploring AI, automation, and machine learning integrations
 - Practicing Data Structures and Algorithms
-- Interested in backend engineering, system design, and building real-world projects
+- Interested in backend engineering, system design, and real-world projects
 
 <p>
   <a href="https://www.linkedin.com/in/deepumahapatro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -47,11 +46,10 @@
 
 ## Backend Development
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
@@ -109,12 +107,12 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Deepu-mahapatro&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Deepu-mahapatro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -122,7 +120,7 @@
 ## Contribution Calendar
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Calendar" />
 </p>
 
 ---
@@ -146,4 +144,9 @@
 </p>
 
 ---
-```
+
+<p align="center">
+  <b>Keep Learning. Keep Building. Keep Growing. 🚀</b>
+  <br/>
+  Thanks for visiting my GitHub profile!
+</p>
