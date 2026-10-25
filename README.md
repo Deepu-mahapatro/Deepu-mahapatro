@@ -1,185 +1,149 @@
 ```markdown
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+GITHUB!_;PYTHON+FULL+STACK+DEVELOPER;DJANGO+%7C+FASTAPI+%7C+AI;PROBLEM+SOLVER+%7C+BUILDER">
+</h1>
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,100:8B0000&height=200&section=header&text=Deepu%20Mahapatro&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=750&height=80&lines=PYTHON+FULL-STACK+DEVELOPER;DJANGO+%7C+FASTAPI+%7C+REST+APIS;AI+%26+AUTOMATION+ENTHUSIAST;WELCOME+TO+MY+GITHUB!" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social Links -->
-<a href="https://github.com/Deepu-mahapatro">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/deepumahapatro/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Deepu_mahapatro/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-<a href="https://www.geeksforgeeks.org/profile/deepumahap2udh">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Deepu-mahapatro&style=for-the-badge&color=FF4500" alt="Profile Views" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Deepu Mahapatro"
-        self.location = "India"
-        self.education = "B.Tech - Electronics & Computer Engineering"
-        self.role = "Python Full-Stack Developer"
-        self.interests = [
-            "Backend Development",
-            "Problem Solving",
-            "AI & Automation",
-            "Real-World Projects"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my GitHub profile!")
-
-me = Developer()
-me.say_hi()
-```
-
-- 🎓 Third-year B.Tech student at Vignan Institute of Information Technology.
-- 🐍 Interested in Python backend and full-stack development.
-- ⚙️ Building projects and learning backend technologies.
-- 🧠 Practicing Data Structures and Algorithms.
-- 🤖 Exploring AI, automation, and practical AI integrations.
-- 🚀 Focused on continuous learning and improving my problem-solving skills.
-
----
-
-## 🛠️ Tech Arsenal
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
-</p>
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-FF4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Caching
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase" />
-</p>
-
-### 📊 Data Science & AI
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-8A2BE2?style=for-the-badge" />
-</p>
-
-### 🔧 Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
-</p>
-
-### 📚 Computer Science Fundamentals
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-00758F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-444444?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-008080?style=for-the-badge" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" alt="Coding Animation">
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## About Me
 
-<div align="center">
+- 3rd-Year B.Tech student in Electronics & Computer Engineering at VIIT, Duvvada
+- Python Full-Stack Developer with a focus on backend development
+- Building projects using Django, FastAPI, and REST APIs
+- Exploring AI, automation, and machine learning integrations
+- Practicing Data Structures and Algorithms
+- Interested in backend engineering, system design, and building real-world projects
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&theme=radical&hide_border=true" />
-
-<br/>
-
-<img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=Deepu-mahapatro&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-## 📊 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Deepu-mahapatro&bg_color=141321&color=FF4500&line=FF4500&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/deepumahapatro/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:deepumahapatro2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/Deepu-mahapatro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://leetcode.com/u/Deepu_mahapatro/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.geeksforgeeks.org/profile/deepumahap2udh"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## Programming Languages
 
-<div align="center">
-
-<!-- Light Mode -->
-<img src="https://raw.githubusercontent.com/Deepu-mahapatro/Deepu-mahapatro/output/github-snake.svg" alt="GitHub Contribution Snake" />
-
-<!-- Dark Mode -->
-<img src="https://raw.githubusercontent.com/Deepu-mahapatro/Deepu-mahapatro/output/github-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🗓️ 3D Contribution Calendar
+## Frontend Development
 
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Calendar" />
-
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-<div align="center">
+## Backend Development
 
-### 💡 Keep Learning. Keep Building. Keep Growing.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-*Thanks for visiting my profile! Feel free to explore my repositories.*
+---
 
-</div>
+## Backend Concepts
+
+![Authentication](https://img.shields.io/badge/Authentication-4169E1?style=for-the-badge)
+![API Design](https://img.shields.io/badge/REST_API_Design-008080?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System_Design_Fundamentals-6A5ACD?style=for-the-badge)
+
+---
+
+## Databases & Caching
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+
+---
+
+## Data Science / AI
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-8A2BE2?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-FF4500?style=for-the-badge)
+
+---
+
+## Tools / DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## Computer Science Fundamentals
+
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF4500?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge)
+![Operating Systems](https://img.shields.io/badge/Operating_Systems-444444?style=for-the-badge)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-008080?style=for-the-badge)
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Deepu-mahapatro&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Calendar" />
+</p>
+
+---
+
+## GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepu-mahapatro&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+---
+
+## Productivity Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepu-mahapatro&theme=github_dark" alt="Productive Time Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepu-mahapatro&theme=github_dark" alt="Profile Details" />
+</p>
+
+---
 ```
