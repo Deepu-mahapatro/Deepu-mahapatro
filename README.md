@@ -22,7 +22,6 @@
   <a href="mailto:deepumahapatro2006@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Deepu-mahapatro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://leetcode.com/u/Deepu_mahapatro/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://www.geeksforgeeks.org/profile/deepumahap2udh"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
 </p>
 
 ---
@@ -30,8 +29,11 @@
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -72,7 +74,7 @@
 
 ---
 
-## Data Science / AI
+## AI / Data Science
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -107,12 +109,12 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
   <img height="170" src="https://streak-stats.demolab.com?user=Deepu-mahapatro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
@@ -120,7 +122,7 @@
 ## Contribution Calendar
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Calendar" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="My 3D GitHub Contribution Calendar" />
 </p>
 
 ---
@@ -128,7 +130,9 @@
 ## GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepu-mahapatro&theme=github-dark&hide_border=true" alt="GitHub Activity Graph">
+  <a href="https://github.com/Deepu-mahapatro">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepu-mahapatro&theme=github-dark&hide_border=true&area=true" width="100%" alt="Deepu's GitHub Activity Graph" />
+  </a>
 </p>
 
 ---
@@ -136,11 +140,11 @@
 ## Productivity Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepu-mahapatro&theme=github_dark" alt="Productive Time Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepu-mahapatro&theme=github_dark&utcOffset=5.5" alt="GitHub Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepu-mahapatro&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepu-mahapatro&theme=github_dark" width="100%" alt="GitHub Profile Contribution Details" />
 </p>
 
 ---
