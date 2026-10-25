@@ -1,5 +1,5 @@
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+GITHUB!_;PYTHON+FULL+STACK+DEVELOPER;DJANGO+%7C+FASTAPI+%7C+AI;PROBLEM+SOLVER+%7C+BUILDER">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=750&lines=WELCOME+TO+MY+GITHUB!;PROBLEM+SOLVER+%7C+BUILDER" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -107,8 +107,8 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Deepu-mahapatro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deepu-mahapatro&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
+  <img height="170" src="https://streak-stats.demolab.com?user=Deepu-mahapatro&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
@@ -116,7 +116,7 @@
 ## Most Used Languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-mahapatro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages">
 </p>
 
 ---
@@ -124,7 +124,7 @@
 ## Contribution Calendar
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub Contribution Calendar" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub Contribution Calendar">
 </p>
 
 ---
@@ -132,11 +132,11 @@
 ## Productivity Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepu-mahapatro&theme=github_dark&utcOffset=5.5" alt="GitHub Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deepu-mahapatro&theme=github_dark&utcOffset=5.5" alt="GitHub Productive Time">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepu-mahapatro&theme=github_dark" width="100%" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepu-mahapatro&theme=github_dark" width="100%" alt="GitHub Profile Details">
 </p>
 
 ---
