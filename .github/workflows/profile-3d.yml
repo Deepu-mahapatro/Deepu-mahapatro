@@ -1,9 +1,9 @@
 name: Generate My 3D Contribution Calendar
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"
 
 permissions:
   contents: write
@@ -14,16 +14,25 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Generate my contribution calendar
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Show target username
+        run: echo "Generating calendar for ${{ github.repository_owner }}"
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: Deepu-mahapatro
+          USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit generated SVG files
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "profile-3d-contrib/*.svg"
-          message: "Update my 3D contribution calendar"
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add -A profile-3d-contrib/
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh my 3D contribution calendar"
+            git push
+          else
+            echo "No generated files changed."
+          fi
