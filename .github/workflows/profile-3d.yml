@@ -1,3 +1,4 @@
+
 name: Generate My 3D Contribution Calendar
 
 on:
@@ -16,14 +17,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Show target username
-        run: echo "Generating calendar for ${{ github.repository_owner }}"
-
       - name: Generate 3D contribution calendar
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Deepu-mahapatro
 
       - name: Commit generated files
         run: |
@@ -31,7 +29,7 @@ jobs:
           git config user.email "github-actions@github.com"
           git add -A profile-3d-contrib/
           if ! git diff --cached --quiet; then
-            git commit -m "Refresh my 3D contribution calendar"
+            git commit -m "Update my 3D contribution calendar"
             git push
           else
             echo "No generated files changed."
