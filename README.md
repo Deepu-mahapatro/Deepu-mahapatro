@@ -124,9 +124,11 @@
 ## Contribution Calendar
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg"
-       width="100%"
-       alt="My GitHub 3D Contribution Calendar">
+  <img
+    src="./profile-3d-contrib/profile-night-green.svg"
+    alt="Deepu Mahapatro's 3D GitHub Contribution Calendar"
+    width="100%"
+  />
 </p>
 
 ---
